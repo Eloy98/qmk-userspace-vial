@@ -2,6 +2,7 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["peculiarkb/40rmie", "vial"],
-        ["peculiarkb/v4n4g0n", "vial"]
+        ["peculiarkb/v4n4g0n", "vial"],
+        ["peculiarkb/qazkat", "vial"]
     ]
 }
